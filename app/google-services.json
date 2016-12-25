@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "428530635185",
+    "firebase_url": "https://android-chat-example-1402d.firebaseio.com",
+    "project_id": "android-chat-example-1402d",
+    "storage_bucket": "android-chat-example-1402d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428530635185:android:a2e04ca351bd34c5",
+        "android_client_info": {
+          "package_name": "pe.edu.cibertec.androidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428530635185-urjif53q2gkd1ds2rc6gl1t7hi9508ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH4KrizAfiMxxaYQIgy3EXvglXeszm4lQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
